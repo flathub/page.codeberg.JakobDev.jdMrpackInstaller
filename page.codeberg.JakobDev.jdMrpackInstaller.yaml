@@ -28,8 +28,8 @@ modules:
       - python ./install-unix-datafiles.py --prefix=$FLATPAK_DEST
     sources:
       - type: archive
-        url: https://codeberg.org/JakobDev/jdMrpackInstaller/archive/1.0.tar.gz
-        sha256: 8efa998975b654ce8abc77346709be5e3daefb7b7f7022ff33e2f9449086d68c
+        url: https://codeberg.org/JakobDev/jdMrpackInstaller/archive/1.1.tar.gz
+        sha256: 8a6fe76151f594f75104ae3bcef2e0a70e5db0038f99013f1ebff89c051e319c
         x-checker-data:
           type: json
           url: https://codeberg.org/api/v1/repos/JakobDev/jdMrpackInstaller/releases/latest
