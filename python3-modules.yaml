@@ -57,8 +57,8 @@ modules:
       - *id002
       - *id003
       - type: file
-        url: https://files.pythonhosted.org/packages/cb/ca/3f0e13d10a55ac08a3bb11eab09a0618d4c15db6dd7894bcb59d8b7c89d9/minecraft_launcher_lib-7.1-py3-none-any.whl
-        sha256: 7e8ec49a25bd93d6a388553abf34ee2cda8e884a992129e1198fac0e75421a91
+        url: https://files.pythonhosted.org/packages/4d/ff/ac903044f43558af87999dda35e7a3c31d278f766e83e484b24d572fdffe/minecraft_launcher_lib-8.0-py3-none-any.whl
+        sha256: ff17960c62e21ca7e21329303ae56bdefc0246de3bc9a5e1578dfa8df6604746
         x-checker-data:
           name: minecraft_launcher_lib
           packagetype: bdist_wheel
